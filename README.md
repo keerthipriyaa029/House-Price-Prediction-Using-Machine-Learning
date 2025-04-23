@@ -2,10 +2,6 @@
 
 A machine learning project focused on predicting house prices using structured data. It involves data cleaning, exploratory data analysis, and model training using regression techniques. Visualizations and performance evaluations are included to ensure accuracy.
 
-# House Price Prediction Using Machine Learning
-
-This project focuses on predicting house prices using machine learning techniques. It covers the full pipeline from data preprocessing to model evaluation.
-
 ## Project Structure
 
 - train.csv - Training dataset
